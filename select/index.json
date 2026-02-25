@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Area",
+  "base_artist": "MagnusTheMagnus",
+  "createdAt": "2026-02-25T03:01:41.982888Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Area Codes",
+      "artist": "Ludacris feat. Nate Dogg",
+      "has_synced": true,
+      "path": "select/01_Area_Codes_Ludacris_feat._Nate_Dogg.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Area Codes (feat. Nate Dogg)",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/02_Area_Codes_(feat._Nate_Dogg)_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bay Area Music",
+      "artist": "Lil B",
+      "has_synced": false,
+      "path": "select/03_Bay_Area_Music_Lil_B.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Clear the Area",
+      "artist": "Imogen Heap",
+      "has_synced": true,
+      "path": "select/04_Clear_the_Area_Imogen_Heap.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Clear the Area",
+      "artist": "Imogen Heap",
+      "has_synced": false,
+      "path": "select/05_Clear_the_Area_Imogen_Heap.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hangar 18, Area 51",
+      "artist": "Yngwie J. Malmsteen’s Rising Force",
+      "has_synced": false,
+      "path": "select/06_Hangar_18,_Area_51_Yngwie_J._Malmsteen’s_Rising_Force.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Restricted Area",
+      "artist": "U.D.O.",
+      "has_synced": true,
+      "path": "select/07_Restricted_Area_U.D.O..lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cherry Area",
+      "artist": "Pavement",
+      "has_synced": true,
+      "path": "select/08_Cherry_Area_Pavement.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Come gli Area",
+      "artist": "Elio e le Storie Tese",
+      "has_synced": false,
+      "path": "select/09_Come_gli_Area_Elio_e_le_Storie_Tese.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Area 52",
+      "artist": "Yeah Yeah Yeahs",
+      "has_synced": false,
+      "path": "select/10_Area_52_Yeah_Yeah_Yeahs.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mosquito - Live From Area 52",
+      "artist": "Yeah Yeah Yeahs",
+      "has_synced": true,
+      "path": "select/11_Mosquito_-_Live_From_Area_52_Yeah_Yeah_Yeahs.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Mosquito (Live From Area 52)",
+      "artist": "Yeah Yeah Yeahs",
+      "has_synced": true,
+      "path": "select/12_Mosquito_(Live_From_Area_52)_Yeah_Yeah_Yeahs.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Grey Area",
+      "artist": "2 Chainz",
+      "has_synced": true,
+      "path": "select/13_Grey_Area_2_Chainz.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Area Gaana (Enga Veetu Kuthuvilakkey) - From \"Meyaadha Maan\"",
+      "artist": "Santhosh Narayanan feat. Ka Ka Bala",
+      "has_synced": false,
+      "path": "select/14_Area_Gaana_(Enga_Veetu_Kuthuvilakkey)_-_From__Meyaadha_Maan_Santhosh_Narayanan_feat._Ka_Ka_Bala.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Area",
+      "artist": "MagnusTheMagnus",
+      "has_synced": false,
+      "path": "select/pl_01_Area_MagnusTheMagnus.txt"
+    }
+  ]
+}
